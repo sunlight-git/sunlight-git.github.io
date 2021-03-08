@@ -1,7 +1,24 @@
 h1{
     font-size:50px;
 }
+tr1{
+    font-size: 50px;
+    color: orange;
+    
+}
 tr{
     font-size: 50px;
-    color: orange
+    
 }
+#menu {
+    position: fixed;
+    right: 0;
+    top: 50%;
+    width: 8em;
+    margin-top: -2.5em;
+  }
+  tr1{
+      font-size: 50px;
+      color: orange;
+      
+  }
