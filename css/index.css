@@ -1,14 +1,33 @@
+
+
+
+
 h1{
-    font-size:50px;
+    text-align:center
 }
-tr1{
-    font-size: 50px;
-    color: orange;
-    
+
+  .center {
+    display: table-cell;
+    vertical-align: middle;
+  }
+  
+
+body{
+    margin: 0;
+}
+.wrap{
+    margin:0 auto;
+}
+a{
+    font-size: 35px;
+    color: black;
+}
+
+
 }
 tr{
     font-size: 50px;
-    
+
 }
 #menu {
     position: fixed;
@@ -17,8 +36,31 @@ tr{
     width: 8em;
     margin-top: -2.5em;
   }
-  tr1{
-      font-size: 50px;
-      color: orange;
-      
+  
+  
+
+
+ 
+  #menu {
+    margin:10px auto;
+    position: fixed;
+    right:0;
+    top: 60%;
+    width: 5em;
+    margin-top: 2.5em;
+   
+    
   }
+ .首頁{
+    font-family:微軟正黑體;
+     color: orange;
+     font-weight:bold;
+ }
+ .color-lump{
+    width: 1500px;
+    height: 40px;
+    background-color:orange;
+}
+
+
+ 
