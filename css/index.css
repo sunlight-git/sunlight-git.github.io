@@ -24,33 +24,12 @@ a{
 }
 
 
-}
+
 tr{
     font-size: 50px;
 
 }
-#menu {
-    position: fixed;
-    right: 0;
-    top: 50%;
-    width: 8em;
-    margin-top: -2.5em;
-  }
-  
-  
 
-
- 
-  #menu {
-    margin:10px auto;
-    position: fixed;
-    right:0;
-    top: 60%;
-    width: 5em;
-    margin-top: 2.5em;
-   
-    
-  }
  .首頁{
     font-family:微軟正黑體;
      color: orange;
@@ -61,6 +40,3 @@ tr{
     height: 40px;
     background-color:orange;
 }
-
-
- 
